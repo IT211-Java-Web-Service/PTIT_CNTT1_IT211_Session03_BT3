@@ -1,0 +1,43 @@
+{
+  "info": {
+    "_postman_id": "8190bf50-e81e-4584-bc2c-abfd2ba14142",
+    "name": "BT3_Collections",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "48650082",
+    "_collection_link": "https://go.postman.co/collection/48650082-8190bf50-e81e-4584-bc2c-abfd2ba14142?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "GET_ALL_POSTS",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GET_ONE_POST_DETAIL",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "POST_NEW_POST",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "DELETE_ONE_POST",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
